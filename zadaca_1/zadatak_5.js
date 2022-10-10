@@ -7,5 +7,6 @@ function djeljenje(m) {
     }
   }
 }
-
+console.log(niz);
+console.log("Brojevi djeljivi s 3: ");
 console.log(djeljenje(niz));
